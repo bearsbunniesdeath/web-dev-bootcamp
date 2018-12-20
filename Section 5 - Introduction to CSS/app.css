@@ -1,0 +1,16 @@
+﻿h1{
+    color:red;
+    border: 8px dashed red;
+}
+
+li {
+    color:green;
+}
+
+h4 {
+    background: #d4a713;
+}
+
+body {
+    background: pink;
+}
